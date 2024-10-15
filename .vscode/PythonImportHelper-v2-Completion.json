@@ -1,0 +1,1581 @@
+[
+    {
+        "label": "Shape",
+        "importPath": "libs.shape",
+        "description": "libs.shape",
+        "isExtraImport": true,
+        "detail": "libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "importPath": "libs.shape",
+        "description": "libs.shape",
+        "isExtraImport": true,
+        "detail": "libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LINE_COLOR",
+        "importPath": "libs.shape",
+        "description": "libs.shape",
+        "isExtraImport": true,
+        "detail": "libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FILL_COLOR",
+        "importPath": "libs.shape",
+        "description": "libs.shape",
+        "isExtraImport": true,
+        "detail": "libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_icon",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "label_validator",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "trimmed",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Struct",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_action",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_icon",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "add_actions",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_shortcut",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_color_by_text",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "natural_sort",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "libs.utils",
+        "description": "libs.utils",
+        "isExtraImport": true,
+        "detail": "libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "importPath": "sys",
+        "description": "sys",
+        "isExtraImport": true,
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ENCODING",
+        "importPath": "libs.constants",
+        "description": "libs.constants",
+        "isExtraImport": true,
+        "detail": "libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ENCODING",
+        "importPath": "libs.constants",
+        "description": "libs.constants",
+        "isExtraImport": true,
+        "detail": "libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ENCODING",
+        "importPath": "libs.constants",
+        "description": "libs.constants",
+        "isExtraImport": true,
+        "detail": "libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ENCODING",
+        "importPath": "libs.constants",
+        "description": "libs.constants",
+        "isExtraImport": true,
+        "detail": "libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "libs.constants",
+        "description": "libs.constants",
+        "isExtraImport": true,
+        "detail": "libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "CreateMLWriter",
+        "importPath": "libs.create_ml_io",
+        "description": "libs.create_ml_io",
+        "isExtraImport": true,
+        "detail": "libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "CreateMLReader",
+        "importPath": "libs.create_ml_io",
+        "description": "libs.create_ml_io",
+        "isExtraImport": true,
+        "detail": "libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "JSON_EXT",
+        "importPath": "libs.create_ml_io",
+        "description": "libs.create_ml_io",
+        "isExtraImport": true,
+        "detail": "libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "PascalVocWriter",
+        "importPath": "libs.pascal_voc_io",
+        "description": "libs.pascal_voc_io",
+        "isExtraImport": true,
+        "detail": "libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "XML_EXT",
+        "importPath": "libs.pascal_voc_io",
+        "description": "libs.pascal_voc_io",
+        "isExtraImport": true,
+        "detail": "libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "PascalVocReader",
+        "importPath": "libs.pascal_voc_io",
+        "description": "libs.pascal_voc_io",
+        "isExtraImport": true,
+        "detail": "libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "XML_EXT",
+        "importPath": "libs.pascal_voc_io",
+        "description": "libs.pascal_voc_io",
+        "isExtraImport": true,
+        "detail": "libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOWriter",
+        "importPath": "libs.yolo_io",
+        "description": "libs.yolo_io",
+        "isExtraImport": true,
+        "detail": "libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "YoloReader",
+        "importPath": "libs.yolo_io",
+        "description": "libs.yolo_io",
+        "isExtraImport": true,
+        "detail": "libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "TXT_EXT",
+        "importPath": "libs.yolo_io",
+        "description": "libs.yolo_io",
+        "isExtraImport": true,
+        "detail": "libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "ElementTree",
+        "importPath": "xml.etree",
+        "description": "xml.etree",
+        "isExtraImport": true,
+        "detail": "xml.etree",
+        "documentation": {}
+    },
+    {
+        "label": "Element",
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "isExtraImport": true,
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "SubElement",
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "isExtraImport": true,
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "ustr",
+        "importPath": "libs.ustr",
+        "description": "libs.ustr",
+        "isExtraImport": true,
+        "detail": "libs.ustr",
+        "documentation": {}
+    },
+    {
+        "label": "ustr",
+        "importPath": "libs.ustr",
+        "description": "libs.ustr",
+        "isExtraImport": true,
+        "detail": "libs.ustr",
+        "documentation": {}
+    },
+    {
+        "label": "ustr",
+        "importPath": "libs.ustr",
+        "description": "libs.ustr",
+        "isExtraImport": true,
+        "detail": "libs.ustr",
+        "documentation": {}
+    },
+    {
+        "label": "ustr",
+        "importPath": "libs.ustr",
+        "description": "libs.ustr",
+        "isExtraImport": true,
+        "detail": "libs.ustr",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "get_main_app",
+        "importPath": "labelImg",
+        "description": "labelImg",
+        "isExtraImport": true,
+        "detail": "labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "resources",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "resources",
+        "description": "resources",
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "StringBundle",
+        "importPath": "stringBundle",
+        "description": "stringBundle",
+        "isExtraImport": true,
+        "detail": "stringBundle",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "rmtree",
+        "importPath": "shutil",
+        "description": "shutil",
+        "isExtraImport": true,
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "ComboBox",
+        "importPath": "libs.combobox",
+        "description": "libs.combobox",
+        "isExtraImport": true,
+        "detail": "libs.combobox",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultLabelComboBox",
+        "importPath": "libs.default_label_combobox",
+        "description": "libs.default_label_combobox",
+        "isExtraImport": true,
+        "detail": "libs.default_label_combobox",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "libs.resources",
+        "description": "libs.resources",
+        "isExtraImport": true,
+        "detail": "libs.resources",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "libs.settings",
+        "description": "libs.settings",
+        "isExtraImport": true,
+        "detail": "libs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "StringBundle",
+        "importPath": "libs.stringBundle",
+        "description": "libs.stringBundle",
+        "isExtraImport": true,
+        "detail": "libs.stringBundle",
+        "documentation": {}
+    },
+    {
+        "label": "Canvas",
+        "importPath": "libs.canvas",
+        "description": "libs.canvas",
+        "isExtraImport": true,
+        "detail": "libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomWidget",
+        "importPath": "libs.zoomWidget",
+        "description": "libs.zoomWidget",
+        "isExtraImport": true,
+        "detail": "libs.zoomWidget",
+        "documentation": {}
+    },
+    {
+        "label": "LightWidget",
+        "importPath": "libs.lightWidget",
+        "description": "libs.lightWidget",
+        "isExtraImport": true,
+        "detail": "libs.lightWidget",
+        "documentation": {}
+    },
+    {
+        "label": "LabelDialog",
+        "importPath": "libs.labelDialog",
+        "description": "libs.labelDialog",
+        "isExtraImport": true,
+        "detail": "libs.labelDialog",
+        "documentation": {}
+    },
+    {
+        "label": "ColorDialog",
+        "importPath": "libs.colorDialog",
+        "description": "libs.colorDialog",
+        "isExtraImport": true,
+        "detail": "libs.colorDialog",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFile",
+        "importPath": "libs.labelFile",
+        "description": "libs.labelFile",
+        "isExtraImport": true,
+        "detail": "libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFileError",
+        "importPath": "libs.labelFile",
+        "description": "libs.labelFile",
+        "isExtraImport": true,
+        "detail": "libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFileFormat",
+        "importPath": "libs.labelFile",
+        "description": "libs.labelFile",
+        "isExtraImport": true,
+        "detail": "libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "ToolBar",
+        "importPath": "libs.toolBar",
+        "description": "libs.toolBar",
+        "isExtraImport": true,
+        "detail": "libs.toolBar",
+        "documentation": {}
+    },
+    {
+        "label": "HashableQListWidgetItem",
+        "importPath": "libs.hashableQListWidgetItem",
+        "description": "libs.hashableQListWidgetItem",
+        "isExtraImport": true,
+        "detail": "libs.hashableQListWidgetItem",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "Canvas",
+        "kind": 6,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "class Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)\n    newShape = pyqtSignal()\n    selectionChanged = pyqtSignal(bool)\n    shapeMoved = pyqtSignal()\n    drawingPolygon = pyqtSignal(bool)\n    CREATE, EDIT = list(range(2))\n    epsilon = 24.0",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "CURSOR_DEFAULT",
+        "kind": 5,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "CURSOR_DEFAULT = Qt.ArrowCursor\nCURSOR_POINT = Qt.PointingHandCursor\nCURSOR_DRAW = Qt.CrossCursor\nCURSOR_MOVE = Qt.ClosedHandCursor\nCURSOR_GRAB = Qt.OpenHandCursor\n# class Canvas(QGLWidget):\nclass Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "CURSOR_POINT",
+        "kind": 5,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "CURSOR_POINT = Qt.PointingHandCursor\nCURSOR_DRAW = Qt.CrossCursor\nCURSOR_MOVE = Qt.ClosedHandCursor\nCURSOR_GRAB = Qt.OpenHandCursor\n# class Canvas(QGLWidget):\nclass Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)\n    newShape = pyqtSignal()",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "CURSOR_DRAW",
+        "kind": 5,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "CURSOR_DRAW = Qt.CrossCursor\nCURSOR_MOVE = Qt.ClosedHandCursor\nCURSOR_GRAB = Qt.OpenHandCursor\n# class Canvas(QGLWidget):\nclass Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)\n    newShape = pyqtSignal()\n    selectionChanged = pyqtSignal(bool)",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "CURSOR_MOVE",
+        "kind": 5,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "CURSOR_MOVE = Qt.ClosedHandCursor\nCURSOR_GRAB = Qt.OpenHandCursor\n# class Canvas(QGLWidget):\nclass Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)\n    newShape = pyqtSignal()\n    selectionChanged = pyqtSignal(bool)\n    shapeMoved = pyqtSignal()",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "CURSOR_GRAB",
+        "kind": 5,
+        "importPath": "labelImg.libs.canvas",
+        "description": "labelImg.libs.canvas",
+        "peekOfCode": "CURSOR_GRAB = Qt.OpenHandCursor\n# class Canvas(QGLWidget):\nclass Canvas(QWidget):\n    zoomRequest = pyqtSignal(int)\n    lightRequest = pyqtSignal(int)\n    scrollRequest = pyqtSignal(int, int)\n    newShape = pyqtSignal()\n    selectionChanged = pyqtSignal(bool)\n    shapeMoved = pyqtSignal()\n    drawingPolygon = pyqtSignal(bool)",
+        "detail": "labelImg.libs.canvas",
+        "documentation": {}
+    },
+    {
+        "label": "ColorDialog",
+        "kind": 6,
+        "importPath": "labelImg.libs.colorDialog",
+        "description": "labelImg.libs.colorDialog",
+        "peekOfCode": "class ColorDialog(QColorDialog):\n    def __init__(self, parent=None):\n        super(ColorDialog, self).__init__(parent)\n        self.setOption(QColorDialog.ShowAlphaChannel)\n        # The Mac native dialog does not support our restore button.\n        self.setOption(QColorDialog.DontUseNativeDialog)\n        # Add a restore defaults button.\n        # The default is set at invocation time, so that it\n        # works across dialogs for different elements.\n        self.default = None",
+        "detail": "labelImg.libs.colorDialog",
+        "documentation": {}
+    },
+    {
+        "label": "BB",
+        "kind": 5,
+        "importPath": "labelImg.libs.colorDialog",
+        "description": "labelImg.libs.colorDialog",
+        "peekOfCode": "BB = QDialogButtonBox\nclass ColorDialog(QColorDialog):\n    def __init__(self, parent=None):\n        super(ColorDialog, self).__init__(parent)\n        self.setOption(QColorDialog.ShowAlphaChannel)\n        # The Mac native dialog does not support our restore button.\n        self.setOption(QColorDialog.DontUseNativeDialog)\n        # Add a restore defaults button.\n        # The default is set at invocation time, so that it\n        # works across dialogs for different elements.",
+        "detail": "labelImg.libs.colorDialog",
+        "documentation": {}
+    },
+    {
+        "label": "ComboBox",
+        "kind": 6,
+        "importPath": "labelImg.libs.combobox",
+        "description": "labelImg.libs.combobox",
+        "peekOfCode": "class ComboBox(QWidget):\n    def __init__(self, parent=None, items=[]):\n        super(ComboBox, self).__init__(parent)\n        layout = QHBoxLayout()\n        self.cb = QComboBox()\n        self.items = items\n        self.cb.addItems(self.items)\n        self.cb.currentIndexChanged.connect(parent.combo_selection_changed)\n        layout.addWidget(self.cb)\n        self.setLayout(layout)",
+        "detail": "labelImg.libs.combobox",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_FILENAME",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_FILENAME = 'filename'\nSETTING_RECENT_FILES = 'recentFiles'\nSETTING_WIN_SIZE = 'window/size'\nSETTING_WIN_POSE = 'window/position'\nSETTING_WIN_GEOMETRY = 'window/geometry'\nSETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_RECENT_FILES",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_RECENT_FILES = 'recentFiles'\nSETTING_WIN_SIZE = 'window/size'\nSETTING_WIN_POSE = 'window/position'\nSETTING_WIN_GEOMETRY = 'window/geometry'\nSETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_WIN_SIZE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_WIN_SIZE = 'window/size'\nSETTING_WIN_POSE = 'window/position'\nSETTING_WIN_GEOMETRY = 'window/geometry'\nSETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_WIN_POSE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_WIN_POSE = 'window/position'\nSETTING_WIN_GEOMETRY = 'window/geometry'\nSETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_WIN_GEOMETRY",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_WIN_GEOMETRY = 'window/geometry'\nSETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_LINE_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_LINE_COLOR = 'line/color'\nSETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_FILL_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_FILL_COLOR = 'fill/color'\nSETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_ADVANCE_MODE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_ADVANCE_MODE = 'advanced'\nSETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_WIN_STATE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_WIN_STATE = 'window/state'\nSETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_SAVE_DIR",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_SAVE_DIR = 'savedir'\nSETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_PAINT_LABEL",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_PAINT_LABEL = 'paintlabel'\nSETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'\nDEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_LAST_OPEN_DIR",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_LAST_OPEN_DIR = 'lastOpenDir'\nSETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'\nDEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_AUTO_SAVE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_AUTO_SAVE = 'autosave'\nSETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'\nDEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_SINGLE_CLASS",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_SINGLE_CLASS = 'singleclass'\nFORMAT_PASCALVOC='PascalVOC'\nFORMAT_YOLO='YOLO'\nFORMAT_CREATEML='CreateML'\nSETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'\nDEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING_DRAW_SQUARE",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "SETTING_DRAW_SQUARE = 'draw/square'\nSETTING_LABEL_FILE_FORMAT= 'labelFileFormat'\nDEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ENCODING",
+        "kind": 5,
+        "importPath": "labelImg.libs.constants",
+        "description": "labelImg.libs.constants",
+        "peekOfCode": "DEFAULT_ENCODING = 'utf-8'",
+        "detail": "labelImg.libs.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CreateMLWriter",
+        "kind": 6,
+        "importPath": "labelImg.libs.create_ml_io",
+        "description": "labelImg.libs.create_ml_io",
+        "peekOfCode": "class CreateMLWriter:\n    def __init__(self, folder_name, filename, img_size, shapes, output_file, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False\n        self.shapes = shapes",
+        "detail": "labelImg.libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "CreateMLReader",
+        "kind": 6,
+        "importPath": "labelImg.libs.create_ml_io",
+        "description": "labelImg.libs.create_ml_io",
+        "peekOfCode": "class CreateMLReader:\n    def __init__(self, json_path, file_path):\n        self.json_path = json_path\n        self.shapes = []\n        self.verified = False\n        self.filename = os.path.basename(file_path)\n        try:\n            self.parse_json()\n        except ValueError:\n            print(\"JSON decoding failed\")",
+        "detail": "labelImg.libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "JSON_EXT",
+        "kind": 5,
+        "importPath": "labelImg.libs.create_ml_io",
+        "description": "labelImg.libs.create_ml_io",
+        "peekOfCode": "JSON_EXT = '.json'\nENCODE_METHOD = DEFAULT_ENCODING\nclass CreateMLWriter:\n    def __init__(self, folder_name, filename, img_size, shapes, output_file, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path",
+        "detail": "labelImg.libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODE_METHOD",
+        "kind": 5,
+        "importPath": "labelImg.libs.create_ml_io",
+        "description": "labelImg.libs.create_ml_io",
+        "peekOfCode": "ENCODE_METHOD = DEFAULT_ENCODING\nclass CreateMLWriter:\n    def __init__(self, folder_name, filename, img_size, shapes, output_file, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False",
+        "detail": "labelImg.libs.create_ml_io",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultLabelComboBox",
+        "kind": 6,
+        "importPath": "labelImg.libs.default_label_combobox",
+        "description": "labelImg.libs.default_label_combobox",
+        "peekOfCode": "class DefaultLabelComboBox(QWidget):\n    def __init__(self, parent=None, items=[]):\n        super(DefaultLabelComboBox, self).__init__(parent)\n        layout = QHBoxLayout()\n        self.cb = QComboBox()\n        self.items = items\n        self.cb.addItems(self.items)\n        self.cb.currentIndexChanged.connect(parent.default_label_combo_selection_changed)\n        layout.addWidget(self.cb)\n        self.setLayout(layout)",
+        "detail": "labelImg.libs.default_label_combobox",
+        "documentation": {}
+    },
+    {
+        "label": "HashableQListWidgetItem",
+        "kind": 6,
+        "importPath": "labelImg.libs.hashableQListWidgetItem",
+        "description": "labelImg.libs.hashableQListWidgetItem",
+        "peekOfCode": "class HashableQListWidgetItem(QListWidgetItem):\n    def __init__(self, *args):\n        super(HashableQListWidgetItem, self).__init__(*args)\n    def __hash__(self):\n        return hash(id(self))",
+        "detail": "labelImg.libs.hashableQListWidgetItem",
+        "documentation": {}
+    },
+    {
+        "label": "LabelDialog",
+        "kind": 6,
+        "importPath": "labelImg.libs.labelDialog",
+        "description": "labelImg.libs.labelDialog",
+        "peekOfCode": "class LabelDialog(QDialog):\n    def __init__(self, text=\"Enter object label\", parent=None, list_item=None):\n        super(LabelDialog, self).__init__(parent)\n        self.edit = QLineEdit()\n        self.edit.setText(text)\n        self.edit.setValidator(label_validator())\n        self.edit.editingFinished.connect(self.post_process)\n        model = QStringListModel()\n        model.setStringList(list_item)\n        completer = QCompleter()",
+        "detail": "labelImg.libs.labelDialog",
+        "documentation": {}
+    },
+    {
+        "label": "BB",
+        "kind": 5,
+        "importPath": "labelImg.libs.labelDialog",
+        "description": "labelImg.libs.labelDialog",
+        "peekOfCode": "BB = QDialogButtonBox\nclass LabelDialog(QDialog):\n    def __init__(self, text=\"Enter object label\", parent=None, list_item=None):\n        super(LabelDialog, self).__init__(parent)\n        self.edit = QLineEdit()\n        self.edit.setText(text)\n        self.edit.setValidator(label_validator())\n        self.edit.editingFinished.connect(self.post_process)\n        model = QStringListModel()\n        model.setStringList(list_item)",
+        "detail": "labelImg.libs.labelDialog",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFileFormat",
+        "kind": 6,
+        "importPath": "labelImg.libs.labelFile",
+        "description": "labelImg.libs.labelFile",
+        "peekOfCode": "class LabelFileFormat(Enum):\n    PASCAL_VOC = 1\n    YOLO = 2\n    CREATE_ML = 3\nclass LabelFileError(Exception):\n    pass\nclass LabelFile(object):\n    # It might be changed as window creates. By default, using XML ext\n    # suffix = '.lif'\n    suffix = XML_EXT",
+        "detail": "labelImg.libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFileError",
+        "kind": 6,
+        "importPath": "labelImg.libs.labelFile",
+        "description": "labelImg.libs.labelFile",
+        "peekOfCode": "class LabelFileError(Exception):\n    pass\nclass LabelFile(object):\n    # It might be changed as window creates. By default, using XML ext\n    # suffix = '.lif'\n    suffix = XML_EXT\n    def __init__(self, filename=None):\n        self.shapes = ()\n        self.image_path = None\n        self.image_data = None",
+        "detail": "labelImg.libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "LabelFile",
+        "kind": 6,
+        "importPath": "labelImg.libs.labelFile",
+        "description": "labelImg.libs.labelFile",
+        "peekOfCode": "class LabelFile(object):\n    # It might be changed as window creates. By default, using XML ext\n    # suffix = '.lif'\n    suffix = XML_EXT\n    def __init__(self, filename=None):\n        self.shapes = ()\n        self.image_path = None\n        self.image_data = None\n        self.verified = False\n    def save_create_ml_format(self, filename, shapes, image_path, image_data, class_list, line_color=None, fill_color=None, database_src=None):",
+        "detail": "labelImg.libs.labelFile",
+        "documentation": {}
+    },
+    {
+        "label": "LightWidget",
+        "kind": 6,
+        "importPath": "labelImg.libs.lightWidget",
+        "description": "labelImg.libs.lightWidget",
+        "peekOfCode": "class LightWidget(QSpinBox):\n    def __init__(self, title, value=50):\n        super(LightWidget, self).__init__()\n        self.setButtonSymbols(QAbstractSpinBox.NoButtons)\n        self.setRange(0, 100)\n        self.setSuffix(' %')\n        self.setValue(value)\n        self.setToolTip(title)\n        self.setStatusTip(self.toolTip())\n        self.setAlignment(Qt.AlignCenter)",
+        "detail": "labelImg.libs.lightWidget",
+        "documentation": {}
+    },
+    {
+        "label": "PascalVocWriter",
+        "kind": 6,
+        "importPath": "labelImg.libs.pascal_voc_io",
+        "description": "labelImg.libs.pascal_voc_io",
+        "peekOfCode": "class PascalVocWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False\n    def prettify(self, elem):",
+        "detail": "labelImg.libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "PascalVocReader",
+        "kind": 6,
+        "importPath": "labelImg.libs.pascal_voc_io",
+        "description": "labelImg.libs.pascal_voc_io",
+        "peekOfCode": "class PascalVocReader:\n    def __init__(self, file_path):\n        # shapes type:\n        # [labbel, [(x1,y1), (x2,y2), (x3,y3), (x4,y4)], color, color, difficult]\n        self.shapes = []\n        self.file_path = file_path\n        self.verified = False\n        try:\n            self.parse_xml()\n        except:",
+        "detail": "labelImg.libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "XML_EXT",
+        "kind": 5,
+        "importPath": "labelImg.libs.pascal_voc_io",
+        "description": "labelImg.libs.pascal_voc_io",
+        "peekOfCode": "XML_EXT = '.xml'\nENCODE_METHOD = DEFAULT_ENCODING\nclass PascalVocWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path",
+        "detail": "labelImg.libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODE_METHOD",
+        "kind": 5,
+        "importPath": "labelImg.libs.pascal_voc_io",
+        "description": "labelImg.libs.pascal_voc_io",
+        "peekOfCode": "ENCODE_METHOD = DEFAULT_ENCODING\nclass PascalVocWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False",
+        "detail": "labelImg.libs.pascal_voc_io",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "labelImg.libs.settings",
+        "description": "labelImg.libs.settings",
+        "peekOfCode": "class Settings(object):\n    def __init__(self):\n        # Be default, the home will be in the same folder as labelImg\n        home = os.path.expanduser(\"~\")\n        self.data = {}\n        self.path = os.path.join(home, '.labelImgSettings.pkl')\n    def __setitem__(self, key, value):\n        self.data[key] = value\n    def __getitem__(self, key):\n        return self.data[key]",
+        "detail": "labelImg.libs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "kind": 6,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "class Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.\n    line_color = DEFAULT_LINE_COLOR\n    fill_color = DEFAULT_FILL_COLOR\n    select_line_color = DEFAULT_SELECT_LINE_COLOR\n    select_fill_color = DEFAULT_SELECT_FILL_COLOR\n    vertex_fill_color = DEFAULT_VERTEX_FILL_COLOR",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LINE_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_LINE_COLOR = QColor(0, 255, 0, 128)\nDEFAULT_FILL_COLOR = QColor(255, 0, 0, 128)\nDEFAULT_SELECT_LINE_COLOR = QColor(255, 255, 255)\nDEFAULT_SELECT_FILL_COLOR = QColor(0, 128, 255, 155)\nDEFAULT_VERTEX_FILL_COLOR = QColor(0, 255, 0, 255)\nDEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FILL_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_FILL_COLOR = QColor(255, 0, 0, 128)\nDEFAULT_SELECT_LINE_COLOR = QColor(255, 255, 255)\nDEFAULT_SELECT_FILL_COLOR = QColor(0, 128, 255, 155)\nDEFAULT_VERTEX_FILL_COLOR = QColor(0, 255, 0, 255)\nDEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SELECT_LINE_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_SELECT_LINE_COLOR = QColor(255, 255, 255)\nDEFAULT_SELECT_FILL_COLOR = QColor(0, 128, 255, 155)\nDEFAULT_VERTEX_FILL_COLOR = QColor(0, 255, 0, 255)\nDEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.\n    line_color = DEFAULT_LINE_COLOR",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SELECT_FILL_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_SELECT_FILL_COLOR = QColor(0, 128, 255, 155)\nDEFAULT_VERTEX_FILL_COLOR = QColor(0, 255, 0, 255)\nDEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.\n    line_color = DEFAULT_LINE_COLOR\n    fill_color = DEFAULT_FILL_COLOR",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VERTEX_FILL_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_VERTEX_FILL_COLOR = QColor(0, 255, 0, 255)\nDEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.\n    line_color = DEFAULT_LINE_COLOR\n    fill_color = DEFAULT_FILL_COLOR\n    select_line_color = DEFAULT_SELECT_LINE_COLOR",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_HVERTEX_FILL_COLOR",
+        "kind": 5,
+        "importPath": "labelImg.libs.shape",
+        "description": "labelImg.libs.shape",
+        "peekOfCode": "DEFAULT_HVERTEX_FILL_COLOR = QColor(255, 0, 0)\nclass Shape(object):\n    P_SQUARE, P_ROUND = range(2)\n    MOVE_VERTEX, NEAR_VERTEX = range(2)\n    # The following class variables influence the drawing\n    # of _all_ shape objects.\n    line_color = DEFAULT_LINE_COLOR\n    fill_color = DEFAULT_FILL_COLOR\n    select_line_color = DEFAULT_SELECT_LINE_COLOR\n    select_fill_color = DEFAULT_SELECT_FILL_COLOR",
+        "detail": "labelImg.libs.shape",
+        "documentation": {}
+    },
+    {
+        "label": "StringBundle",
+        "kind": 6,
+        "importPath": "labelImg.libs.stringBundle",
+        "description": "labelImg.libs.stringBundle",
+        "peekOfCode": "class StringBundle:\n    __create_key = object()\n    def __init__(self, create_key, locale_str):\n        assert(create_key == StringBundle.__create_key), \"StringBundle must be created using StringBundle.getBundle\"\n        self.id_to_message = {}\n        paths = self.__create_lookup_fallback_list(locale_str)\n        for path in paths:\n            self.__load_bundle(path)\n    @classmethod\n    def get_bundle(cls, locale_str=None):",
+        "detail": "labelImg.libs.stringBundle",
+        "documentation": {}
+    },
+    {
+        "label": "ToolBar",
+        "kind": 6,
+        "importPath": "labelImg.libs.toolBar",
+        "description": "labelImg.libs.toolBar",
+        "peekOfCode": "class ToolBar(QToolBar):\n    def __init__(self, title):\n        super(ToolBar, self).__init__(title)\n        layout = self.layout()\n        m = (0, 0, 0, 0)\n        layout.setSpacing(0)\n        layout.setContentsMargins(*m)\n        self.setContentsMargins(*m)\n        self.setWindowFlags(self.windowFlags() | Qt.FramelessWindowHint)\n    def addAction(self, action):",
+        "detail": "labelImg.libs.toolBar",
+        "documentation": {}
+    },
+    {
+        "label": "ToolButton",
+        "kind": 6,
+        "importPath": "labelImg.libs.toolBar",
+        "description": "labelImg.libs.toolBar",
+        "peekOfCode": "class ToolButton(QToolButton):\n    \"\"\"ToolBar companion class which ensures all buttons have the same size.\"\"\"\n    minSize = (60, 60)\n    def minimumSizeHint(self):\n        ms = super(ToolButton, self).minimumSizeHint()\n        w1, h1 = ms.width(), ms.height()\n        w2, h2 = self.minSize\n        ToolButton.minSize = max(w1, w2), max(h1, h2)\n        return QSize(*ToolButton.minSize)",
+        "detail": "labelImg.libs.toolBar",
+        "documentation": {}
+    },
+    {
+        "label": "ustr",
+        "kind": 2,
+        "importPath": "labelImg.libs.ustr",
+        "description": "labelImg.libs.ustr",
+        "peekOfCode": "def ustr(x):\n    \"\"\"py2/py3 unicode helper\"\"\"\n    if sys.version_info < (3, 0, 0):\n        from PyQt4.QtCore import QString\n        if type(x) == str:\n            return x.decode(DEFAULT_ENCODING)\n        if type(x) == QString:\n            # https://blog.csdn.net/friendan/article/details/51088476\n            # https://blog.csdn.net/xxm524/article/details/74937308\n            return unicode(x.toUtf8(), DEFAULT_ENCODING, 'ignore')",
+        "detail": "labelImg.libs.ustr",
+        "documentation": {}
+    },
+    {
+        "label": "Struct",
+        "kind": 6,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "class Struct(object):\n    def __init__(self, **kwargs):\n        self.__dict__.update(kwargs)\ndef distance(p):\n    return sqrt(p.x() * p.x() + p.y() * p.y())\ndef format_shortcut(text):\n    mod, key = text.split('+', 1)\n    return '<b>%s</b>+<b>%s</b>' % (mod, key)\ndef generate_color_by_text(text):\n    s = ustr(text)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_icon",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def new_icon(icon):\n    return QIcon(':/' + icon)\ndef new_button(text, icon=None, slot=None):\n    b = QPushButton(text)\n    if icon is not None:\n        b.setIcon(new_icon(icon))\n    if slot is not None:\n        b.clicked.connect(slot)\n    return b\ndef new_action(parent, text, slot=None, shortcut=None, icon=None,",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_button",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def new_button(text, icon=None, slot=None):\n    b = QPushButton(text)\n    if icon is not None:\n        b.setIcon(new_icon(icon))\n    if slot is not None:\n        b.clicked.connect(slot)\n    return b\ndef new_action(parent, text, slot=None, shortcut=None, icon=None,\n               tip=None, checkable=False, enabled=True):\n    \"\"\"Create a new action and assign callbacks, shortcuts, etc.\"\"\"",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_action",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def new_action(parent, text, slot=None, shortcut=None, icon=None,\n               tip=None, checkable=False, enabled=True):\n    \"\"\"Create a new action and assign callbacks, shortcuts, etc.\"\"\"\n    a = QAction(text, parent)\n    if icon is not None:\n        a.setIcon(new_icon(icon))\n    if shortcut is not None:\n        if isinstance(shortcut, (list, tuple)):\n            a.setShortcuts(shortcut)\n        else:",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "add_actions",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def add_actions(widget, actions):\n    for action in actions:\n        if action is None:\n            widget.addSeparator()\n        elif isinstance(action, QMenu):\n            widget.addMenu(action)\n        else:\n            widget.addAction(action)\ndef label_validator():\n    return QRegExpValidator(QRegExp(r'^[^ \\t].+'), None)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "label_validator",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def label_validator():\n    return QRegExpValidator(QRegExp(r'^[^ \\t].+'), None)\nclass Struct(object):\n    def __init__(self, **kwargs):\n        self.__dict__.update(kwargs)\ndef distance(p):\n    return sqrt(p.x() * p.x() + p.y() * p.y())\ndef format_shortcut(text):\n    mod, key = text.split('+', 1)\n    return '<b>%s</b>+<b>%s</b>' % (mod, key)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def distance(p):\n    return sqrt(p.x() * p.x() + p.y() * p.y())\ndef format_shortcut(text):\n    mod, key = text.split('+', 1)\n    return '<b>%s</b>+<b>%s</b>' % (mod, key)\ndef generate_color_by_text(text):\n    s = ustr(text)\n    hash_code = int(hashlib.sha256(s.encode('utf-8')).hexdigest(), 16)\n    r = int((hash_code / 255) % 255)\n    g = int((hash_code / 65025) % 255)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_shortcut",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def format_shortcut(text):\n    mod, key = text.split('+', 1)\n    return '<b>%s</b>+<b>%s</b>' % (mod, key)\ndef generate_color_by_text(text):\n    s = ustr(text)\n    hash_code = int(hashlib.sha256(s.encode('utf-8')).hexdigest(), 16)\n    r = int((hash_code / 255) % 255)\n    g = int((hash_code / 65025) % 255)\n    b = int((hash_code / 16581375) % 255)\n    return QColor(r, g, b, 100)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_color_by_text",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def generate_color_by_text(text):\n    s = ustr(text)\n    hash_code = int(hashlib.sha256(s.encode('utf-8')).hexdigest(), 16)\n    r = int((hash_code / 255) % 255)\n    g = int((hash_code / 65025) % 255)\n    b = int((hash_code / 16581375) % 255)\n    return QColor(r, g, b, 100)\ndef have_qstring():\n    \"\"\"p3/qt5 get rid of QString wrapper as py3 has native unicode str type\"\"\"\n    return not (sys.version_info.major >= 3 or QT_VERSION_STR.startswith('5.'))",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "have_qstring",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def have_qstring():\n    \"\"\"p3/qt5 get rid of QString wrapper as py3 has native unicode str type\"\"\"\n    return not (sys.version_info.major >= 3 or QT_VERSION_STR.startswith('5.'))\ndef util_qt_strlistclass():\n    return QStringList if have_qstring() else list\ndef natural_sort(list, key=lambda s:s):\n    \"\"\"\n    Sort the list into natural alphanumeric order.\n    \"\"\"\n    def get_alphanum_key_func(key):",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "util_qt_strlistclass",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def util_qt_strlistclass():\n    return QStringList if have_qstring() else list\ndef natural_sort(list, key=lambda s:s):\n    \"\"\"\n    Sort the list into natural alphanumeric order.\n    \"\"\"\n    def get_alphanum_key_func(key):\n        convert = lambda text: int(text) if text.isdigit() else text\n        return lambda s: [convert(c) for c in re.split('([0-9]+)', key(s))]\n    sort_key = get_alphanum_key_func(key)",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "natural_sort",
+        "kind": 2,
+        "importPath": "labelImg.libs.utils",
+        "description": "labelImg.libs.utils",
+        "peekOfCode": "def natural_sort(list, key=lambda s:s):\n    \"\"\"\n    Sort the list into natural alphanumeric order.\n    \"\"\"\n    def get_alphanum_key_func(key):\n        convert = lambda text: int(text) if text.isdigit() else text\n        return lambda s: [convert(c) for c in re.split('([0-9]+)', key(s))]\n    sort_key = get_alphanum_key_func(key)\n    list.sort(key=sort_key)\n# QT4 has a trimmed method, in QT5 this is called strip",
+        "detail": "labelImg.libs.utils",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOWriter",
+        "kind": 6,
+        "importPath": "labelImg.libs.yolo_io",
+        "description": "labelImg.libs.yolo_io",
+        "peekOfCode": "class YOLOWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False\n    def add_bnd_box(self, x_min, y_min, x_max, y_max, name, difficult):",
+        "detail": "labelImg.libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "YoloReader",
+        "kind": 6,
+        "importPath": "labelImg.libs.yolo_io",
+        "description": "labelImg.libs.yolo_io",
+        "peekOfCode": "class YoloReader:\n    def __init__(self, file_path, image, class_list_path=None):\n        # shapes type:\n        # [labbel, [(x1,y1), (x2,y2), (x3,y3), (x4,y4)], color, color, difficult]\n        self.shapes = []\n        self.file_path = file_path\n        if class_list_path is None:\n            dir_path = os.path.dirname(os.path.realpath(self.file_path))\n            self.class_list_path = os.path.join(dir_path, \"classes.txt\")\n        else:",
+        "detail": "labelImg.libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "TXT_EXT",
+        "kind": 5,
+        "importPath": "labelImg.libs.yolo_io",
+        "description": "labelImg.libs.yolo_io",
+        "peekOfCode": "TXT_EXT = '.txt'\nENCODE_METHOD = DEFAULT_ENCODING\nclass YOLOWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path",
+        "detail": "labelImg.libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODE_METHOD",
+        "kind": 5,
+        "importPath": "labelImg.libs.yolo_io",
+        "description": "labelImg.libs.yolo_io",
+        "peekOfCode": "ENCODE_METHOD = DEFAULT_ENCODING\nclass YOLOWriter:\n    def __init__(self, folder_name, filename, img_size, database_src='Unknown', local_img_path=None):\n        self.folder_name = folder_name\n        self.filename = filename\n        self.database_src = database_src\n        self.img_size = img_size\n        self.box_list = []\n        self.local_img_path = local_img_path\n        self.verified = False",
+        "detail": "labelImg.libs.yolo_io",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomWidget",
+        "kind": 6,
+        "importPath": "labelImg.libs.zoomWidget",
+        "description": "labelImg.libs.zoomWidget",
+        "peekOfCode": "class ZoomWidget(QSpinBox):\n    def __init__(self, value=100):\n        super(ZoomWidget, self).__init__()\n        self.setButtonSymbols(QAbstractSpinBox.NoButtons)\n        self.setRange(1, 500)\n        self.setSuffix(' %')\n        self.setValue(value)\n        self.setToolTip(u'Zoom Level')\n        self.setStatusTip(self.toolTip())\n        self.setAlignment(Qt.AlignCenter)",
+        "detail": "labelImg.libs.zoomWidget",
+        "documentation": {}
+    },
+    {
+        "label": "TestPascalVocRW",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_io",
+        "description": "labelImg.tests.test_io",
+        "peekOfCode": "class TestPascalVocRW(unittest.TestCase):\n    def test_upper(self):\n        dir_name = os.path.abspath(os.path.dirname(__file__))\n        libs_path = os.path.join(dir_name, '..', 'libs')\n        sys.path.insert(0, libs_path)\n        from pascal_voc_io import PascalVocWriter\n        from pascal_voc_io import PascalVocReader\n        # Test Write/Read\n        writer = PascalVocWriter('tests', 'test', (512, 512, 1), local_img_path='tests/test.512.512.bmp')\n        difficult = 1",
+        "detail": "labelImg.tests.test_io",
+        "documentation": {}
+    },
+    {
+        "label": "TestCreateMLRW",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_io",
+        "description": "labelImg.tests.test_io",
+        "peekOfCode": "class TestCreateMLRW(unittest.TestCase):\n    def test_a_write(self):\n        dir_name = os.path.abspath(os.path.dirname(__file__))\n        libs_path = os.path.join(dir_name, '..', 'libs')\n        sys.path.insert(0, libs_path)\n        from create_ml_io import CreateMLWriter\n        person = {'label': 'person', 'points': ((65, 45), (420, 45), (420, 512), (65, 512))}\n        face = {'label': 'face', 'points': ((245, 250), (350, 250), (350, 365), (245, 365))}\n        expected_width = 105    # 350-245 -> create_ml_io.py ll 46\n        expected_height = 115   # 365-250 -> create_ml_io.py ll 49",
+        "detail": "labelImg.tests.test_io",
+        "documentation": {}
+    },
+    {
+        "label": "TestMainWindow",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_qt",
+        "description": "labelImg.tests.test_qt",
+        "peekOfCode": "class TestMainWindow(TestCase):\n    app = None\n    win = None\n    def setUp(self):\n        self.app, self.win = get_main_app()\n    def tearDown(self):\n        self.win.close()\n        self.app.quit()\n    def test_noop(self):\n        pass",
+        "detail": "labelImg.tests.test_qt",
+        "documentation": {}
+    },
+    {
+        "label": "TestSettings",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_settings",
+        "description": "labelImg.tests.test_settings",
+        "peekOfCode": "class TestSettings(unittest.TestCase):\n    def test_basic(self):\n        settings = Settings()\n        settings['test0'] = 'hello'\n        settings['test1'] = 10\n        settings['test2'] = [0, 2, 3]\n        self.assertEqual(settings.get('test3', 3), 3)\n        self.assertEqual(settings.save(), True)\n        settings.load()\n        self.assertEqual(settings.get('test0'), 'hello')",
+        "detail": "labelImg.tests.test_settings",
+        "documentation": {}
+    },
+    {
+        "label": "__author__",
+        "kind": 5,
+        "importPath": "labelImg.tests.test_settings",
+        "description": "labelImg.tests.test_settings",
+        "peekOfCode": "__author__ = 'TzuTaLin'\ndir_name = os.path.abspath(os.path.dirname(__file__))\nlibs_path = os.path.join(dir_name, '..', 'libs')\nsys.path.insert(0, libs_path)\nfrom settings import Settings\nclass TestSettings(unittest.TestCase):\n    def test_basic(self):\n        settings = Settings()\n        settings['test0'] = 'hello'\n        settings['test1'] = 10",
+        "detail": "labelImg.tests.test_settings",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "labelImg.tests.test_settings",
+        "description": "labelImg.tests.test_settings",
+        "peekOfCode": "dir_name = os.path.abspath(os.path.dirname(__file__))\nlibs_path = os.path.join(dir_name, '..', 'libs')\nsys.path.insert(0, libs_path)\nfrom settings import Settings\nclass TestSettings(unittest.TestCase):\n    def test_basic(self):\n        settings = Settings()\n        settings['test0'] = 'hello'\n        settings['test1'] = 10\n        settings['test2'] = [0, 2, 3]",
+        "detail": "labelImg.tests.test_settings",
+        "documentation": {}
+    },
+    {
+        "label": "libs_path",
+        "kind": 5,
+        "importPath": "labelImg.tests.test_settings",
+        "description": "labelImg.tests.test_settings",
+        "peekOfCode": "libs_path = os.path.join(dir_name, '..', 'libs')\nsys.path.insert(0, libs_path)\nfrom settings import Settings\nclass TestSettings(unittest.TestCase):\n    def test_basic(self):\n        settings = Settings()\n        settings['test0'] = 'hello'\n        settings['test1'] = 10\n        settings['test2'] = [0, 2, 3]\n        self.assertEqual(settings.get('test3', 3), 3)",
+        "detail": "labelImg.tests.test_settings",
+        "documentation": {}
+    },
+    {
+        "label": "TestStringBundle",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_stringBundle",
+        "description": "labelImg.tests.test_stringBundle",
+        "peekOfCode": "class TestStringBundle(unittest.TestCase):\n    def test_loadDefaultBundle_withoutError(self):\n        str_bundle = StringBundle.get_bundle('en')\n        self.assertEqual(str_bundle.get_string(\"openDir\"), 'Open Dir', 'Fail to load the default bundle')\n    def test_fallback_withoutError(self):\n        str_bundle = StringBundle.get_bundle('zh-TW')\n        self.assertEqual(str_bundle.get_string(\"openDir\"), u'\\u958B\\u555F\\u76EE\\u9304', 'Fail to load the zh-TW bundle')\n    def test_setInvaleLocaleToEnv_printErrorMsg(self):\n        prev_lc = os.environ['LC_ALL']\n        prev_lang = os.environ['LANG']",
+        "detail": "labelImg.tests.test_stringBundle",
+        "documentation": {}
+    },
+    {
+        "label": "TestUtils",
+        "kind": 6,
+        "importPath": "labelImg.tests.test_utils",
+        "description": "labelImg.tests.test_utils",
+        "peekOfCode": "class TestUtils(unittest.TestCase):\n    def test_generateColorByGivingUniceText_noError(self):\n        res = generate_color_by_text(u'\\u958B\\u555F\\u76EE\\u9304')\n        self.assertTrue(res.green() >= 0)\n        self.assertTrue(res.red() >= 0)\n        self.assertTrue(res.blue() >= 0)\n    def test_nautalSort_noError(self):\n        l1 = ['f1', 'f11', 'f3']\n        expected_l1 = ['f1', 'f3', 'f11']\n        natural_sort(l1)",
+        "detail": "labelImg.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "txt2csv",
+        "kind": 2,
+        "importPath": "labelImg.tools.label_to_csv",
+        "description": "labelImg.tools.label_to_csv",
+        "peekOfCode": "def txt2csv(location, training_dir, path_prefix):\n    # Return list\n    temp_res = []\n    # Run through all the files\n    for file in os.listdir(location):\n        # Check the file name ends with txt\n        #  and not class.txt\n        if (not file.endswith(\".txt\")) | \\\n                (file == \"classes.txt\"):\n            continue",
+        "detail": "labelImg.tools.label_to_csv",
+        "documentation": {}
+    },
+    {
+        "label": "xml2csv",
+        "kind": 2,
+        "importPath": "labelImg.tools.label_to_csv",
+        "description": "labelImg.tools.label_to_csv",
+        "peekOfCode": "def xml2csv(location, training_dir, path_prefix):\n    # To parse the xml files\n    import xml.etree.ElementTree as ET\n    # Return list\n    temp_res = []\n    # Run through all the files\n    for file in os.listdir(location):\n        # Check the file name ends with xml\n        if not file.endswith(\".xml\"):\n            continue",
+        "detail": "labelImg.tools.label_to_csv",
+        "documentation": {}
+    },
+    {
+        "label": "WindowMixin",
+        "kind": 6,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "class WindowMixin(object):\n    def menu(self, title, actions=None):\n        menu = self.menuBar().addMenu(title)\n        if actions:\n            add_actions(menu, actions)\n        return menu\n    def toolbar(self, title, actions=None):\n        toolbar = ToolBar(title)\n        toolbar.setObjectName(u'%sToolBar' % title)\n        # toolbar.setOrientation(Qt.Vertical)",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "class MainWindow(QMainWindow, WindowMixin):\n    FIT_WINDOW, FIT_WIDTH, MANUAL_ZOOM = list(range(3))\n    def __init__(self, default_filename=None, default_prefdef_class_file=None, default_save_dir=None):\n        super(MainWindow, self).__init__()\n        self.setWindowTitle(__appname__)\n        # Load setting in the main thread\n        self.settings = Settings()\n        self.settings.load()\n        settings = self.settings\n        self.os_name = platform.system()",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "inverted",
+        "kind": 2,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "def inverted(color):\n    return QColor(*[255 - v for v in color.getRgb()])\ndef read(filename, default=None):\n    try:\n        reader = QImageReader(filename)\n        reader.setAutoTransform(True)\n        return reader.read()\n    except:\n        return default\ndef get_main_app(argv=None):",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 2,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "def read(filename, default=None):\n    try:\n        reader = QImageReader(filename)\n        reader.setAutoTransform(True)\n        return reader.read()\n    except:\n        return default\ndef get_main_app(argv=None):\n    \"\"\"\n    Standard boilerplate Qt application code.",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "get_main_app",
+        "kind": 2,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "def get_main_app(argv=None):\n    \"\"\"\n    Standard boilerplate Qt application code.\n    Do everything but app.exec_() -- so that we can test the application in one thread\n    \"\"\"\n    if not argv:\n        argv = []\n    app = QApplication(argv)\n    app.setApplicationName(__appname__)\n    app.setWindowIcon(new_icon(\"app\"))",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "def main():\n    \"\"\"construct main app and run it\"\"\"\n    app, _win = get_main_app(sys.argv)\n    return app.exec_()\nif __name__ == '__main__':\n    sys.exit(main())",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "__appname__",
+        "kind": 5,
+        "importPath": "labelImg.labelImg",
+        "description": "labelImg.labelImg",
+        "peekOfCode": "__appname__ = 'labelImg'\nclass WindowMixin(object):\n    def menu(self, title, actions=None):\n        menu = self.menuBar().addMenu(title)\n        if actions:\n            add_actions(menu, actions)\n        return menu\n    def toolbar(self, title, actions=None):\n        toolbar = ToolBar(title)\n        toolbar.setObjectName(u'%sToolBar' % title)",
+        "detail": "labelImg.labelImg",
+        "documentation": {}
+    },
+    {
+        "label": "UploadCommand",
+        "kind": 6,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "class UploadCommand(Command):\n    \"\"\"Support setup.py upload.\"\"\"\n    description=readme + '\\n\\n' + history,\n    user_options = []\n    @staticmethod\n    def status(s):\n        \"\"\"Prints things in bold.\"\"\"\n        print('\\033[1m{0}\\033[0m'.format(s))\n    def initialize_options(self):\n        pass",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "here",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "here = os.path.abspath(os.path.dirname(__file__))\nNAME = 'labelImg'\nREQUIRES_PYTHON = '>=3.0.0'\nREQUIRED_DEP = ['pyqt5', 'lxml']\nabout = {}\nwith open(os.path.join(here, 'libs', '__init__.py')) as f:\n    exec(f.read(), about)\nwith open(\"README.rst\", \"rb\") as readme_file:\n    readme = readme_file.read().decode(\"UTF-8\")\nwith open(\"HISTORY.rst\", \"rb\") as history_file:",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "NAME",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "NAME = 'labelImg'\nREQUIRES_PYTHON = '>=3.0.0'\nREQUIRED_DEP = ['pyqt5', 'lxml']\nabout = {}\nwith open(os.path.join(here, 'libs', '__init__.py')) as f:\n    exec(f.read(), about)\nwith open(\"README.rst\", \"rb\") as readme_file:\n    readme = readme_file.read().decode(\"UTF-8\")\nwith open(\"HISTORY.rst\", \"rb\") as history_file:\n    history = history_file.read().decode(\"UTF-8\")",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRES_PYTHON",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "REQUIRES_PYTHON = '>=3.0.0'\nREQUIRED_DEP = ['pyqt5', 'lxml']\nabout = {}\nwith open(os.path.join(here, 'libs', '__init__.py')) as f:\n    exec(f.read(), about)\nwith open(\"README.rst\", \"rb\") as readme_file:\n    readme = readme_file.read().decode(\"UTF-8\")\nwith open(\"HISTORY.rst\", \"rb\") as history_file:\n    history = history_file.read().decode(\"UTF-8\")\n# OS specific settings",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED_DEP",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "REQUIRED_DEP = ['pyqt5', 'lxml']\nabout = {}\nwith open(os.path.join(here, 'libs', '__init__.py')) as f:\n    exec(f.read(), about)\nwith open(\"README.rst\", \"rb\") as readme_file:\n    readme = readme_file.read().decode(\"UTF-8\")\nwith open(\"HISTORY.rst\", \"rb\") as history_file:\n    history = history_file.read().decode(\"UTF-8\")\n# OS specific settings\nSET_REQUIRES = []",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "about = {}\nwith open(os.path.join(here, 'libs', '__init__.py')) as f:\n    exec(f.read(), about)\nwith open(\"README.rst\", \"rb\") as readme_file:\n    readme = readme_file.read().decode(\"UTF-8\")\nwith open(\"HISTORY.rst\", \"rb\") as history_file:\n    history = history_file.read().decode(\"UTF-8\")\n# OS specific settings\nSET_REQUIRES = []\nif _platform == \"linux\" or _platform == \"linux2\":",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "SET_REQUIRES",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "SET_REQUIRES = []\nif _platform == \"linux\" or _platform == \"linux2\":\n   # linux\n   print('linux')\nelif _platform == \"darwin\":\n   # MAC OS X\n   SET_REQUIRES.append('py2app')\nrequired_packages = find_packages()\nrequired_packages.append('labelImg')\nAPP = [NAME + '.py']",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "required_packages",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "required_packages = find_packages()\nrequired_packages.append('labelImg')\nAPP = [NAME + '.py']\nOPTIONS = {\n    'argv_emulation': True,\n    'iconfile': 'resources/icons/app.icns'\n}\nclass UploadCommand(Command):\n    \"\"\"Support setup.py upload.\"\"\"\n    description=readme + '\\n\\n' + history,",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "APP",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "APP = [NAME + '.py']\nOPTIONS = {\n    'argv_emulation': True,\n    'iconfile': 'resources/icons/app.icns'\n}\nclass UploadCommand(Command):\n    \"\"\"Support setup.py upload.\"\"\"\n    description=readme + '\\n\\n' + history,\n    user_options = []\n    @staticmethod",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    },
+    {
+        "label": "OPTIONS",
+        "kind": 5,
+        "importPath": "labelImg.setup",
+        "description": "labelImg.setup",
+        "peekOfCode": "OPTIONS = {\n    'argv_emulation': True,\n    'iconfile': 'resources/icons/app.icns'\n}\nclass UploadCommand(Command):\n    \"\"\"Support setup.py upload.\"\"\"\n    description=readme + '\\n\\n' + history,\n    user_options = []\n    @staticmethod\n    def status(s):",
+        "detail": "labelImg.setup",
+        "documentation": {}
+    }
+]
